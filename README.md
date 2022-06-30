@@ -1,3 +1,7 @@
+
+Run this section with <> option to get the text in readable order.
+
+
 # WebPhoneStore
 Web Phone Store programmed with html, css, JavaScript, MySQL DataBase and php from scratches without framework.
 We publish this code to give basic idea of how a full website working for begginer web developer. 
